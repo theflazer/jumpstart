@@ -1,6 +1,6 @@
 {
-  "name": "electron-demo",
-  "version": "1.0.0",
+  "name": "jumpstart",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
